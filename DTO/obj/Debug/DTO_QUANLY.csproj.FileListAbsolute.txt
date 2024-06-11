@@ -1,0 +1,6 @@
+D:\LẬP TRÌNH CƠ SỞ DỮ LIỆU\DEMO\QLBANHANG\DTO\bin\Debug\DTO.dll
+D:\LẬP TRÌNH CƠ SỞ DỮ LIỆU\DEMO\QLBANHANG\DTO\bin\Debug\DTO.pdb
+D:\LẬP TRÌNH CƠ SỞ DỮ LIỆU\DEMO\QLBANHANG\DTO\obj\Debug\DTO_QUANLY.csproj.AssemblyReference.cache
+D:\LẬP TRÌNH CƠ SỞ DỮ LIỆU\DEMO\QLBANHANG\DTO\obj\Debug\DTO_QUANLY.csproj.CoreCompileInputs.cache
+D:\LẬP TRÌNH CƠ SỞ DỮ LIỆU\DEMO\QLBANHANG\DTO\obj\Debug\DTO.dll
+D:\LẬP TRÌNH CƠ SỞ DỮ LIỆU\DEMO\QLBANHANG\DTO\obj\Debug\DTO.pdb

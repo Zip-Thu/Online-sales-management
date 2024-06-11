@@ -1,0 +1,9 @@
+D:\LẬP TRÌNH CƠ SỞ DỮ LIỆU\DEMO\QLBANHANG\DAL\bin\Debug\DAL.dll
+D:\LẬP TRÌNH CƠ SỞ DỮ LIỆU\DEMO\QLBANHANG\DAL\bin\Debug\DAL.pdb
+D:\LẬP TRÌNH CƠ SỞ DỮ LIỆU\DEMO\QLBANHANG\DAL\bin\Debug\DTO.dll
+D:\LẬP TRÌNH CƠ SỞ DỮ LIỆU\DEMO\QLBANHANG\DAL\bin\Debug\DTO.pdb
+D:\LẬP TRÌNH CƠ SỞ DỮ LIỆU\DEMO\QLBANHANG\DAL\obj\Debug\DAL_QUANLY.csproj.AssemblyReference.cache
+D:\LẬP TRÌNH CƠ SỞ DỮ LIỆU\DEMO\QLBANHANG\DAL\obj\Debug\DAL_QUANLY.csproj.CoreCompileInputs.cache
+D:\LẬP TRÌNH CƠ SỞ DỮ LIỆU\DEMO\QLBANHANG\DAL\obj\Debug\DAL_QUANLY.csproj.Up2Date
+D:\LẬP TRÌNH CƠ SỞ DỮ LIỆU\DEMO\QLBANHANG\DAL\obj\Debug\DAL.dll
+D:\LẬP TRÌNH CƠ SỞ DỮ LIỆU\DEMO\QLBANHANG\DAL\obj\Debug\DAL.pdb
